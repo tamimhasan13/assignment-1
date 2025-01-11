@@ -425,3 +425,65 @@ footer{
 }
 
 /* donate section css start */
+/* Subscripe css start */
+.subscribe-section{
+    /* height: 395px; */
+    background-color: #C6E4D6;
+    text-align: center;
+    border-radius: 24px;
+   margin-bottom: 80px;
+
+}
+.subscribe-section .subscribe-content{
+    padding: 80px 265px;
+}
+.subscribe-section .subscribe-content .subscribe-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 16px;
+}
+.subscribe-section .subscribe-content .subscribe-description{
+    font-size: 16px;
+    color: #454e4a;
+    margin-bottom: 24px;
+    margin-right: 64px;
+    margin-left: 64px;
+}
+
+
+
+.subscribe-section  .inside-element{
+    width: 750px;
+    margin-bottom: 24px;
+}
+.subscribe-section  .inside-element input[type="email"]{
+    padding: 18px 40px;
+    background-color: #FFFFFF;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #454e4a;
+     width: 80%;
+    border-radius: 8px 0 0 8px;
+    box-sizing: border-box;
+    margin-right: 0;
+    
+}
+.subscribe-section  .inside-element button{
+    padding: 18px 40px;
+    background-color: #006A50;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    width: 20%;
+    color: #FFFFFF;
+    border-radius: 0px 8px 8px 0;
+    box-sizing: border-box;
+    margin-left: -5px;
+}
+.subscribe-section .subscribe-content p{
+    color: #454e4a;
+    font-size: 16px;
+}
+/* Subscripe css end */
