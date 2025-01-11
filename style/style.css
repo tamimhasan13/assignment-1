@@ -487,3 +487,29 @@ footer{
     font-size: 16px;
 }
 /* Subscripe css end */
+/* footer section css */
+.footer{
+    width: 1280px;
+    /* margin: 0 160px; */
+    text-align: center;
+    /* background-color: #FFFFFF; */
+    /* width: 1280px; */
+    /* margin: 0 160px; */
+    margin: 0px 160px;
+}
+.footer .footer-title{
+    padding-top: 50px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #0E0E0E;
+    text-align: center;
+}
+.footer hr{
+    margin: 31px 239px ;
+}
+.footer .icon-group{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    padding-bottom: 50px;
+}
