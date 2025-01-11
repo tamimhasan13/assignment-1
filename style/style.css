@@ -285,3 +285,75 @@ footer{
     color: #0E0E0E;
 }
 /* opinion-section css end */
+/* News section css start */
+.news-section{
+    margin-bottom: 80px;
+
+}
+.news-section .news-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 24px;
+}
+.news-section .news-description{
+    font-size: 16px;
+    color: #454e4a;
+    margin-bottom: 32px;
+}
+.news-section .satallite-part{
+    display: flex;
+    gap: 32px;
+    padding: 0 48px;
+    background-color: #FFFFFF;
+    margin-bottom: 24px;
+    border-radius: 24px;
+    /* height: 402px; */
+}
+
+.news-section .satallite-part .box-left {
+    /* margin-top: 48px; */
+    margin: 48px 0;
+   
+    
+    /* width: 408px;
+    height: 306px; */
+   
+
+}
+.news-section .satallite-part .box-left img{
+    border-radius: 24px;
+}
+.news-section .satallite-part .satallite{
+    margin: 56px 0;
+}
+.news-section .satallite-part .satallite h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: #333936;
+}
+.news-section .satallite-part .satallite img{
+    padding: 12px 0;
+}
+.news-section .satallite-part .satallite p{
+    font-size: 16px;
+    color: #454e4a;
+}
+.news-section .satallite-part .satallite span{
+    padding-left: 12px;
+}
+.news-section .satallite-part .satallite .description{
+    padding-top: 12px;
+    padding-bottom: 32px;
+}
+.news-section .satallite-part .satallite .btn{
+    padding: 13px 26px;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* News section css start */
